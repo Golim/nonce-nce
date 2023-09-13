@@ -1,0 +1,4 @@
+beautifulsoup4
+Requests
+tabulate
+urllib3
